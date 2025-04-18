@@ -266,5 +266,4 @@ void visualizar(int *punteroPtro){ //declaración función
     }
     printf("\n\n");
     
-    int w;
 }
