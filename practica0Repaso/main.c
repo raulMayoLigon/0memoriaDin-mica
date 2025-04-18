@@ -8,7 +8,6 @@ struct persona {
     int age;
     int nCompras;
     int importeTotal;
-    int a;
 };
 
 //Declarar Funciones:
