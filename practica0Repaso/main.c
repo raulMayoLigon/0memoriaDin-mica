@@ -141,6 +141,7 @@ void listarUsuarios(struct persona pp[], int numPersonas) {
         printf("    -Importe total gastado: %d\n", pp[i].importeTotal);
         printf("-------------------------\n");
     }
+    printf("Odio a marianela");
 }
 
 
